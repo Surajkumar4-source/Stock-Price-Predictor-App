@@ -1,8 +1,8 @@
-# Stock Price Predictor App
+# Stock Price Predictor Web App
 
 ## Project Overview
 
-Welcome to the Stock Price Predictor App, where the synergy of machine learning and real-time data delivers captivating insights into stock market trends. Explore its innovative features for dynamic and interactive predictions of stock prices.
+Welcome to the Stock Price Predictor Web App, where the synergy of machine learning and real-time data delivers captivating insights into stock market trends. Explore its innovative features for dynamic and interactive predictions of stock prices.
 Here's a closer look at what the app offers:
 
 ## Key Features
@@ -45,7 +45,7 @@ Here's a closer look at what the app offers:
    cd stock-price-predictor-app
    
 2. **Install the necessary libraries**:
-   ```bash
+   ```bash   
    pip install streamlit keras yfinance pandas streamlit numPy matplotlib datetime sklearn(Scikit-learn):
 
 3.**Run the app**:
