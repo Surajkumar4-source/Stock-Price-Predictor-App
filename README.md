@@ -50,5 +50,6 @@ Here's a closer look at what the app offers:
 
 3.**Run the app**:
   ```bash
- streamlit run app.
+ streamlit run web_bit_coin_price_predictor.py
+   
  
