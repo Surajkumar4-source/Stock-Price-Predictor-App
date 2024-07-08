@@ -49,7 +49,15 @@ Here's a closer look at what the app offers:
    pip install streamlit keras yfinance pandas streamlit numPy matplotlib datetime sklearn(Scikit-learn):
 
 3.**Run the app**:
-  ```bash
- streamlit run web_bit_coin_price_predictor.py
-   
- 
+
+
+
+
+## DEMO
+
+
+
+
+
+https://github.com/Surajkumar4-source/Stock-Price-Predictor-App/assets/122175764/34bf14dd-83af-48a8-b2a5-afe5961ea7bf
+
